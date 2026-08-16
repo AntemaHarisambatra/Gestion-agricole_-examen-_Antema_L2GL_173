@@ -65,11 +65,6 @@ Voici un récapitulatif concis des actions effectuées durant le développement 
 - Tests : `flutter test` (1 test métier exécuté et réussi)
 - Analyse : `flutter analyze` (aucun problème restant)
 
-## Prochaines options (je peux réaliser)
-- Créer le dépôt GitHub distant et pousser le code.
-- Préparer une build release / APK.
-- Ajouter un backend API REST (Symfony/Node) avec JWT et synchronisation PostgreSQL.
-
 ---
 
 
